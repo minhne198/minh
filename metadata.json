@@ -1,0 +1,8 @@
+
+{
+  "name": "LingoFlow AI",
+  "description": "An AI-powered vocabulary learning app for English and Simplified Chinese, featuring intelligent word suggestions, visual aids, and natural text-to-speech pronunciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
